@@ -1,0 +1,952 @@
+[
+   {
+      "Sun" : "Full to Partial",
+      "Name" : "Purple Giant Hyssop",
+      "Notes" : "",
+      "Season" : "Late Summer",
+      "Color" : "Light Pink",
+      "Soil Wetness" : "Medium",
+      "Relative Height" : "tall",
+      "Height" : "6"
+   },
+   {
+      "Sun" : "Part Shade",
+      "Name" : "Agrimony",
+      "Notes" : "",
+      "Season" : "Late Summer",
+      "Color" : "Yellow",
+      "Soil Wetness" : "Medium",
+      "Relative Height" : "tall",
+      "Height" : "5"
+   },
+   {
+      "Soil Wetness" : "Medium",
+      "Relative Height" : "tall",
+      "Height" : "4",
+      "Sun" : "Full to Partial",
+      "Name" : "Dogbane",
+      "Notes" : "Red stems, kills dogs",
+      "Color" : "White",
+      "Season" : "Late Spring"
+   },
+   {
+      "Color" : "Purple",
+      "Season" : "Early Fall",
+      "Notes" : "",
+      "Name" : "New England Aster",
+      "Sun" : "Full to Partial",
+      "Height" : "5",
+      "Relative Height" : "tall",
+      "Soil Wetness" : "Medium"
+   },
+   {
+      "Notes" : "Blooms are short-lived",
+      "Color" : "Pink",
+      "Season" : "Early Summer",
+      "Sun" : "Full to Partial",
+      "Name" : "Showy Tick Trefoil",
+      "Height" : "5",
+      "Soil Wetness" : "Medium",
+      "Relative Height" : "tall"
+   },
+   {
+      "Height" : "7",
+      "Soil Wetness" : "Medium Wet",
+      "Relative Height" : "tall",
+      "Notes" : "Takes 5 years to bloom, stinky, must stake it when it gets tall",
+      "Color" : "White",
+      "Season" : "Late Spring",
+      "Sun" : "Part to Shade",
+      "Name" : "Black Cohosh"
+   },
+   {
+      "Height" : "5",
+      "Relative Height" : "tall",
+      "Soil Wetness" : "Medium",
+      "Color" : "White",
+      "Season" : "Late Summer",
+      "Notes" : "",
+      "Name" : "Turtlehead",
+      "Sun" : "Full to Partial"
+   },
+   {
+      "Height" : "4",
+      "Soil Wetness" : "Medium",
+      "Relative Height" : "tall",
+      "Notes" : "can’t stand competition?",
+      "Season" : "Midsummer",
+      "Color" : "Pink",
+      "Sun" : "Full to Partial",
+      "Name" : "Fireweed"
+   },
+   {
+      "Height" : "4",
+      "Relative Height" : "tall",
+      "Soil Wetness" : "medium",
+      "Season" : "Early Fall",
+      "Color" : "White",
+      "Notes" : "",
+      "Name" : "Tall Boneset",
+      "Sun" : "Full to Partial"
+   },
+   {
+      "Height" : "5",
+      "Soil Wetness" : "medium",
+      "Relative Height" : "tall",
+      "Notes" : "awesome",
+      "Season" : "Mid Fall",
+      "Color" : "yellow",
+      "Sun" : "Full to Partial",
+      "Name" : "Showy Goldenrod"
+   },
+   {
+      "Height" : "6",
+      "Relative Height" : "tall",
+      "Soil Wetness" : "Medium Wet",
+      "Season" : "midsummer",
+      "Color" : "pink",
+      "Notes" : "",
+      "Name" : "Joe Pye Weed",
+      "Sun" : "Full to Partial"
+   },
+   {
+      "Soil Wetness" : "medium",
+      "Relative Height" : "tall",
+      "Height" : "7",
+      "Sun" : "Part Shade",
+      "Name" : "Sweet Joe Pye Weed",
+      "Notes" : "",
+      "Color" : "pink",
+      "Season" : "midsummer"
+   },
+   {
+      "Color" : "yellow",
+      "Season" : "late summer",
+      "Notes" : "",
+      "Name" : "Sneezeweed",
+      "Sun" : "Full to Partial",
+      "Height" : "4",
+      "Relative Height" : "tall",
+      "Soil Wetness" : "medium wet"
+   },
+   {
+      "Name" : "Round-headed bush clover",
+      "Sun" : "Full to Partial",
+      "Color" : "white",
+      "Season" : "late summer",
+      "Notes" : "",
+      "Relative Height" : "tall",
+      "Soil Wetness" : "medium",
+      "Height" : "3"
+   },
+   {
+      "Height" : "4",
+      "Soil Wetness" : "medium",
+      "Relative Height" : "tall",
+      "Notes" : "aggressive",
+      "Color" : "yellow",
+      "Season" : "late summer",
+      "Sun" : "Full to Partial",
+      "Name" : "Stiff Goldenrod"
+   },
+   {
+      "Name" : "Shining Aster",
+      "Sun" : "Full to Partial",
+      "Season" : "late summer",
+      "Color" : "pale blue",
+      "Notes" : "",
+      "Relative Height" : "tall",
+      "Soil Wetness" : "medium",
+      "Height" : "8"
+   },
+   {
+      "Name" : "Smooth blue Aster",
+      "Sun" : "Full to Partial",
+      "Season" : "late summer",
+      "Color" : "lavender",
+      "Notes" : "",
+      "Relative Height" : "tall",
+      "Soil Wetness" : "medium",
+      "Height" : "4"
+   },
+   {
+      "Relative Height" : "tall",
+      "Soil Wetness" : "medium wet",
+      "Height" : "5",
+      "Name" : "blue vervain",
+      "Sun" : "Full to Partial",
+      "Color" : "pink",
+      "Season" : "midsummer",
+      "Notes" : ""
+   },
+   {
+      "Relative Height" : "tall",
+      "Soil Wetness" : "medium",
+      "Height" : "5",
+      "Name" : "white vervain",
+      "Sun" : "Full to Partial",
+      "Season" : "midsummer",
+      "Color" : "white",
+      "Notes" : ""
+   },
+   {
+      "Soil Wetness" : "medium",
+      "Relative Height" : "tall",
+      "Height" : "6",
+      "Sun" : "Full to Partial",
+      "Name" : "ironweed",
+      "Notes" : "",
+      "Color" : "purple",
+      "Season" : "midsummer"
+   },
+   {
+      "Soil Wetness" : "medium",
+      "Relative Height" : "tall",
+      "Height" : "5",
+      "Sun" : "Full to Partial",
+      "Name" : "tall ironweed",
+      "Notes" : "",
+      "Color" : "purple",
+      "Season" : "late summer"
+   },
+   {
+      "Soil Wetness" : "medium",
+      "Relative Height" : "tall",
+      "Height" : "5",
+      "Sun" : "Full to Partial",
+      "Name" : "culver’s root",
+      "Notes" : "",
+      "Season" : "midsummer",
+      "Color" : "white"
+   },
+   {
+      "Sun" : "Full to Partial",
+      "Name" : "wild senna",
+      "Notes" : "",
+      "Season" : "midsummer",
+      "Color" : "yellow",
+      "Soil Wetness" : "medium",
+      "Relative Height" : "tall",
+      "Height" : "5"
+   },
+   {
+      "Height" : "6",
+      "Relative Height" : "tall",
+      "Soil Wetness" : "medium",
+      "Color" : "red",
+      "Season" : "midsummer",
+      "Notes" : "",
+      "Name" : "late figwort",
+      "Sun" : "Full to Partial"
+   },
+   {
+      "Sun" : "Full to Partial",
+      "Name" : "wild golden glow",
+      "Notes" : "really tall coneflower",
+      "Color" : "yellow",
+      "Season" : "late summer",
+      "Soil Wetness" : "medium",
+      "Relative Height" : "tall",
+      "Height" : "7"
+   },
+   {
+      "Soil Wetness" : "medium",
+      "Relative Height" : "tall",
+      "Height" : "4",
+      "Sun" : "Full to Partial",
+      "Name" : "solomon’s seal",
+      "Notes" : "",
+      "Season" : "late spring",
+      "Color" : "white"
+   },
+   {
+      "Season" : "midsummer",
+      "Color" : "pink",
+      "Notes" : "",
+      "Name" : "early wild rose",
+      "Sun" : "Full to Partial",
+      "Height" : "5",
+      "Relative Height" : "tall",
+      "Soil Wetness" : "medium"
+   },
+   {
+      "Height" : "3",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "medium",
+      "Notes" : "",
+      "Color" : "white",
+      "Season" : "late summer",
+      "Sun" : "full",
+      "Name" : "cinnamon willow herb"
+   },
+   {
+      "Soil Wetness" : "medium dry",
+      "Relative Height" : "medium",
+      "Height" : "3",
+      "Sun" : "full to partial",
+      "Name" : "new jersey tea",
+      "Notes" : "makes a nice tea",
+      "Color" : "white",
+      "Season" : "midsummer"
+   },
+   {
+      "Notes" : "understory woods edge plant",
+      "Color" : "green",
+      "Season" : "midsummer",
+      "Sun" : "partial",
+      "Name" : "smallspike false nettle",
+      "Height" : "3",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "medium"
+   },
+   {
+      "Relative Height" : "medium",
+      "Soil Wetness" : "medium dry",
+      "Height" : "3",
+      "Name" : "Hyssop-leaved thoroughwort",
+      "Sun" : "full to partial",
+      "Color" : "white",
+      "Season" : "early fall",
+      "Notes" : "small, pretty flowers"
+   },
+   {
+      "Color" : "light purple",
+      "Season" : "mid fall",
+      "Notes" : "",
+      "Name" : "Heart-leaved aster",
+      "Sun" : "partial shade",
+      "Height" : "3",
+      "Relative Height" : "medium",
+      "Soil Wetness" : "medium dry"
+   },
+   {
+      "Height" : "3",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "medium",
+      "Notes" : "POT – native american medicine, roots protect from european devil",
+      "Season" : "midsummer",
+      "Color" : "yellow",
+      "Sun" : "full to partial",
+      "Name" : "yellow avens"
+   },
+   {
+      "Season" : "late spring",
+      "Color" : "Violet – white",
+      "Notes" : "Iris – ugly",
+      "Name" : "northern blue flag",
+      "Sun" : "full to partial",
+      "Height" : "3",
+      "Relative Height" : "medium",
+      "Soil Wetness" : "medium wet"
+   },
+   {
+      "Name" : "shrubby st john’s wort",
+      "Sun" : "full to partial",
+      "Season" : "late summer",
+      "Color" : "yellow",
+      "Notes" : "POT (might be too big) -- pleasant round bush",
+      "Relative Height" : "medium",
+      "Soil Wetness" : "medium",
+      "Height" : "4"
+   },
+   {
+      "Sun" : "full",
+      "Name" : "seedbox",
+      "Notes" : "POT – 1.3 million seeds/oz",
+      "Color" : "yellow",
+      "Season" : "late spring",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "medium",
+      "Height" : "3"
+   },
+   {
+      "Notes" : "POT ",
+      "Color" : "purple",
+      "Season" : "midsummer",
+      "Sun" : "full",
+      "Name" : "winged loosestrife",
+      "Height" : "3",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "medium"
+   },
+   {
+      "Sun" : "full to partial",
+      "Name" : "ohio spiderwort",
+      "Notes" : "",
+      "Season" : "late spring",
+      "Color" : "purple",
+      "Soil Wetness" : "medium",
+      "Relative Height" : "medium",
+      "Height" : "3"
+   },
+   {
+      "Height" : "3",
+      "Relative Height" : "medium",
+      "Soil Wetness" : "medium",
+      "Color" : "red",
+      "Season" : "early summer",
+      "Notes" : "",
+      "Name" : "late horse gentian",
+      "Sun" : "partial"
+   },
+   {
+      "Height" : "3",
+      "Soil Wetness" : "medium",
+      "Relative Height" : "medium",
+      "Notes" : "",
+      "Season" : "spring",
+      "Color" : "yellow",
+      "Sun" : "full to partial",
+      "Name" : "golden alexander"
+   },
+   {
+      "Color" : "yellow",
+      "Season" : "late summer",
+      "Notes" : "",
+      "Name" : "early goldenrod",
+      "Sun" : "full, partial",
+      "Height" : "3",
+      "Relative Height" : "medium",
+      "Soil Wetness" : "medium dry"
+   },
+   {
+      "Relative Height" : "medium",
+      "Soil Wetness" : "medium dry",
+      "Height" : "3",
+      "Name" : "sweet goldenrod",
+      "Sun" : "full, partial",
+      "Season" : "early fall",
+      "Color" : "yellow",
+      "Notes" : ""
+   },
+   {
+      "Height" : "3",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "medium",
+      "Notes" : "POT ",
+      "Color" : "green",
+      "Season" : "late spring",
+      "Sun" : "full, partial, shade",
+      "Name" : "swamp saxifrage"
+   },
+   {
+      "Relative Height" : "medium",
+      "Soil Wetness" : "Medium",
+      "Height" : "3",
+      "Name" : "mountain mint",
+      "Sun" : "full, partial",
+      "Season" : "late summer",
+      "Color" : "white",
+      "Notes" : "light green foliage"
+   },
+   {
+      "Notes" : "",
+      "Season" : "early summer",
+      "Color" : "white",
+      "Sun" : "full, partial",
+      "Name" : "canada anemone",
+      "Height" : "1",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "small"
+   },
+   {
+      "Height" : "3",
+      "Soil Wetness" : "medium dry",
+      "Relative Height" : "small",
+      "Notes" : "",
+      "Color" : "white",
+      "Season" : "midsummer",
+      "Sun" : "full, partial, shade",
+      "Name" : "tall thimbleweed"
+   },
+   {
+      "Sun" : "full, partial",
+      "Name" : "prairie pussytoes",
+      "Notes" : "",
+      "Color" : "white",
+      "Season" : "spring",
+      "Soil Wetness" : "medium dry",
+      "Relative Height" : "small",
+      "Height" : "0.333"
+   },
+   {
+      "Season" : "spring",
+      "Color" : "red",
+      "Notes" : "",
+      "Name" : "columbine",
+      "Sun" : "full, partial, shade",
+      "Height" : "2",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium dry"
+   },
+   {
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium",
+      "Height" : "2",
+      "Name" : "jack in the pulpit",
+      "Sun" : "partial, shade",
+      "Color" : "green",
+      "Season" : "spring",
+      "Notes" : ""
+   },
+   {
+      "Soil Wetness" : "medium",
+      "Relative Height" : "small",
+      "Height" : "2",
+      "Sun" : "full, partial",
+      "Name" : "small yellow wild indigo",
+      "Notes" : "",
+      "Season" : "summer",
+      "Color" : "yellow"
+   },
+   {
+      "Sun" : "full, partial",
+      "Name" : "downy wood mint",
+      "Notes" : "",
+      "Season" : "summer",
+      "Color" : "purple",
+      "Soil Wetness" : "medium dry",
+      "Relative Height" : "small",
+      "Height" : "1"
+   },
+   {
+      "Height" : "2",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium dry",
+      "Season" : "summer",
+      "Color" : "white",
+      "Notes" : "",
+      "Name" : "prairie cinquefoil",
+      "Sun" : "full, partial"
+   },
+   {
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium dry",
+      "Height" : "2",
+      "Name" : "hoary frostweed",
+      "Sun" : "full, partial",
+      "Color" : "yellow",
+      "Season" : "midsummer",
+      "Notes" : ""
+   },
+   {
+      "Name" : "harebell",
+      "Sun" : "full, partial",
+      "Color" : "purple",
+      "Season" : "summer",
+      "Notes" : "",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium dry",
+      "Height" : "1"
+   },
+   {
+      "Sun" : "full, partial, shade",
+      "Name" : "marsh marigold",
+      "Notes" : "",
+      "Color" : "yellow",
+      "Season" : "spring",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "small",
+      "Height" : "2"
+   },
+   {
+      "Height" : "2",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "small",
+      "Notes" : "",
+      "Season" : "late summer",
+      "Color" : "pink",
+      "Sun" : "full, partial",
+      "Name" : "northern willow herb"
+   },
+   {
+      "Height" : "1",
+      "Soil Wetness" : "medium dry",
+      "Relative Height" : "small",
+      "Notes" : "",
+      "Color" : "white",
+      "Season" : "late spring",
+      "Sun" : "full, partial",
+      "Name" : "robin’s plantain"
+   },
+   {
+      "Sun" : "partial, shade",
+      "Name" : "shining bedstraw",
+      "Notes" : "",
+      "Season" : "spring",
+      "Color" : "white",
+      "Soil Wetness" : "medium dry",
+      "Relative Height" : "small",
+      "Height" : "2"
+   },
+   {
+      "Soil Wetness" : "medium",
+      "Relative Height" : "small",
+      "Height" : "2",
+      "Sun" : "full, partial",
+      "Name" : "bottle gentian",
+      "Notes" : "cool blooms",
+      "Season" : "late summer",
+      "Color" : "purple"
+   },
+   {
+      "Height" : "2",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium",
+      "Color" : "light pink",
+      "Season" : "spring",
+      "Notes" : "",
+      "Name" : "wild geranium",
+      "Sun" : "full, partial, shade"
+   },
+   {
+      "Height" : "1",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium",
+      "Season" : "late spring",
+      "Color" : "white",
+      "Notes" : "",
+      "Name" : "goldenseal",
+      "Sun" : "partial, shade"
+   },
+   {
+      "Sun" : "partial, shade",
+      "Name" : "virginia waterleaf",
+      "Notes" : "",
+      "Season" : "late spring",
+      "Color" : "light purple",
+      "Soil Wetness" : "medium",
+      "Relative Height" : "small",
+      "Height" : "2"
+   },
+   {
+      "Sun" : "full, partial",
+      "Name" : "cynthia",
+      "Notes" : "",
+      "Season" : "early summer",
+      "Color" : "yellow",
+      "Soil Wetness" : "medium",
+      "Relative Height" : "small",
+      "Height" : "1"
+   },
+   {
+      "Name" : "slender bush clover",
+      "Sun" : "partial",
+      "Color" : "purple",
+      "Season" : "late summer",
+      "Notes" : "",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium",
+      "Height" : "2"
+   },
+   {
+      "Notes" : "",
+      "Color" : "purple",
+      "Season" : "early summer",
+      "Sun" : "full, partial",
+      "Name" : "sundial lupine",
+      "Height" : "2",
+      "Soil Wetness" : "medium dry",
+      "Relative Height" : "small"
+   },
+   {
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "small",
+      "Height" : "2",
+      "Sun" : "full, partial",
+      "Name" : "water horehound",
+      "Notes" : "POT ",
+      "Season" : "late summer",
+      "Color" : "white"
+   },
+   {
+      "Height" : "2",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium",
+      "Season" : "summer",
+      "Color" : "yellow",
+      "Notes" : "",
+      "Name" : "fringed loosestrife",
+      "Sun" : "full, partial, shade"
+   },
+   {
+      "Height" : "2",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium",
+      "Color" : "white",
+      "Season" : "spring",
+      "Notes" : "",
+      "Name" : "solomon’s plume",
+      "Sun" : "full, partial, shade"
+   },
+   {
+      "Soil Wetness" : "medium",
+      "Relative Height" : "small",
+      "Height" : "2",
+      "Sun" : "full, partial",
+      "Name" : "pale spiked lobelia",
+      "Notes" : "",
+      "Color" : "white",
+      "Season" : "early summer"
+   },
+   {
+      "Notes" : "POT ",
+      "Color" : "purple",
+      "Season" : "summer",
+      "Sun" : "full, partial",
+      "Name" : "monkey flower",
+      "Height" : "2",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "small"
+   },
+   {
+      "Sun" : "full, partial",
+      "Name" : "wild mint",
+      "Notes" : "POT – VERY AGGRESSIVE",
+      "Color" : "light purple",
+      "Season" : "late summer",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "small",
+      "Height" : "2"
+   },
+   {
+      "Name" : "bishop’s cap",
+      "Sun" : "partial, shade",
+      "Season" : "spring",
+      "Color" : "white",
+      "Notes" : "",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium",
+      "Height" : "1"
+   },
+   {
+      "Name" : "calico aster",
+      "Sun" : "full, partial, shade",
+      "Season" : "fall",
+      "Color" : "white",
+      "Notes" : "",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium",
+      "Height" : "2"
+   },
+   {
+      "Sun" : "partial, shade",
+      "Name" : "nodding trillium",
+      "Notes" : "",
+      "Season" : "late spring",
+      "Color" : "white",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "small",
+      "Height" : "1"
+   },
+   {
+      "Soil Wetness" : "medium",
+      "Relative Height" : "small",
+      "Height" : "1",
+      "Sun" : "partial, shade",
+      "Name" : "bellwort",
+      "Notes" : "",
+      "Color" : "yellow",
+      "Season" : "early spring"
+   },
+   {
+      "Soil Wetness" : "medium dry",
+      "Relative Height" : "small",
+      "Height" : "2",
+      "Sun" : "full",
+      "Name" : "narrow leaved vervain",
+      "Notes" : "",
+      "Color" : "light purple",
+      "Season" : "summer"
+   },
+   {
+      "Height" : "0.5",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium",
+      "Season" : "spring",
+      "Color" : "yellow",
+      "Notes" : "",
+      "Name" : "smooth yellow violet",
+      "Sun" : "partial"
+   },
+   {
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium dry",
+      "Height" : "0.25",
+      "Name" : "bird’s foot violet",
+      "Sun" : "full, partial",
+      "Color" : "light purple",
+      "Season" : "spring",
+      "Notes" : ""
+   },
+   {
+      "Sun" : "full, partial, shade",
+      "Name" : "common blue violet",
+      "Notes" : "",
+      "Season" : "spring",
+      "Color" : "purple",
+      "Soil Wetness" : "medium",
+      "Relative Height" : "small",
+      "Height" : "0.333"
+   },
+   {
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium dry",
+      "Height" : "0.333",
+      "Name" : "small skullcap",
+      "Sun" : "full, partial",
+      "Color" : "purple",
+      "Season" : "late spring",
+      "Notes" : ""
+   },
+   {
+      "Height" : "0.5",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium",
+      "Season" : "late spring",
+      "Color" : "blue",
+      "Notes" : "",
+      "Name" : "stout blue-eyed grass",
+      "Sun" : "full, partial"
+   },
+   {
+      "Name" : "Mad-dog skullcap",
+      "Sun" : "full, partial",
+      "Season" : "late summer",
+      "Color" : "blue",
+      "Notes" : "",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium wet",
+      "Height" : "2"
+   },
+   {
+      "Color" : "white",
+      "Season" : "late summer",
+      "Notes" : "",
+      "Name" : "arumleaf arrowhead",
+      "Sun" : "full",
+      "Height" : "2",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium wet"
+   },
+   {
+      "Sun" : "full, partial",
+      "Name" : "wood betony",
+      "Notes" : "",
+      "Season" : "early spring",
+      "Color" : "yellow",
+      "Soil Wetness" : "medium",
+      "Relative Height" : "small",
+      "Height" : "1"
+   },
+   {
+      "Color" : "purple",
+      "Season" : "late spring",
+      "Notes" : "",
+      "Name" : "hairy beardtongue",
+      "Sun" : "full, partial, shade",
+      "Height" : "1.5",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium"
+   },
+   {
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "small",
+      "Height" : "2",
+      "Sun" : "full, partial",
+      "Name" : "ditch stonecrop",
+      "Notes" : "",
+      "Color" : "red",
+      "Season" : "summer"
+   },
+   {
+      "Notes" : "",
+      "Color" : "white",
+      "Season" : "late summer",
+      "Sun" : "partial, shade",
+      "Name" : "woodland knotweed",
+      "Height" : "2",
+      "Soil Wetness" : "medium",
+      "Relative Height" : "small"
+   },
+   {
+      "Height" : "1.333",
+      "Soil Wetness" : "medium",
+      "Relative Height" : "small",
+      "Notes" : "",
+      "Color" : "white",
+      "Season" : "early summer",
+      "Sun" : "full, partial",
+      "Name" : "seneca snakeroot"
+   },
+   {
+      "Height" : "1",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium",
+      "Color" : "white",
+      "Season" : "late spring",
+      "Notes" : "poison",
+      "Name" : "may apple",
+      "Sun" : "partial, shade"
+   },
+   {
+      "Name" : "lopseed",
+      "Sun" : "partial, shade",
+      "Color" : "pink",
+      "Season" : "late summer",
+      "Notes" : "",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium wet",
+      "Height" : "2"
+   },
+   {
+      "Height" : "2",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium",
+      "Color" : "pink",
+      "Season" : "summer",
+      "Notes" : "Semi-aggressive",
+      "Name" : "carolina rose",
+      "Sun" : "full, partial"
+   },
+   {
+      "Color" : "pink",
+      "Season" : "midsummer",
+      "Notes" : "",
+      "Name" : "early wild rose",
+      "Sun" : "full, partial",
+      "Height" : "5",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium dry"
+   },
+   {
+      "Notes" : "POT ",
+      "Color" : "pink",
+      "Season" : "late summer",
+      "Sun" : "full, partial",
+      "Name" : "meadow beauty",
+      "Height" : "1",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "small"
+   },
+   {
+      "Notes" : "",
+      "Color" : "yellow",
+      "Season" : "early summer",
+      "Sun" : "full, partial, shade",
+      "Name" : "golden ragwort",
+      "Height" : "2",
+      "Soil Wetness" : "medium wet",
+      "Relative Height" : "small"
+   },
+   {
+      "Color" : "white",
+      "Season" : "early summer",
+      "Notes" : "",
+      "Name" : "aniseroot",
+      "Sun" : "partial, shade",
+      "Height" : "2",
+      "Relative Height" : "small",
+      "Soil Wetness" : "medium"
+   }
+]
